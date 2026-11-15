@@ -32,4 +32,18 @@ Expected output: `10 of 10 correct`, `Mismatches: 0` and `ALL TESTS PASSED`.
 - Carry chain: AND gates; display: BCD to seven-segment decoders.
 
 ## Repository
-https://github.com/YOUR-USERNAME/digital-clock-project
+https://github.com/Amityadav0002/Digital-Clock-Using-Logic-Gates.git
+## Project Submitted By
+
+**Student Name:** Amit Yadav
+
+**Roll Number:** 202610101070001
+
+**Project Title:** Digital Clock Using Logic Gates
+
+## Submitted To
+
+**Dr. Prabhat Srivastava**  
+Assistant Professor
+
+**GitHub Profile:** @profprabhat7-lang
